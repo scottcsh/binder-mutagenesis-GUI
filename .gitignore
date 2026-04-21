@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+resources/settings.json
+runs/
+_binder_mutagenesis_gui/
+*_mutagenesis/
+.venv/
+.pytest_cache/
